@@ -2,7 +2,6 @@
 - 👀 I’m interested in data analysis
 - 🌱 I’m currently learning excel, python and sql
 - 💞️ I’m looking to collaborate on data analysis
-- 📫 How to reach me ...
 
 <!---
 omerayman/omerayman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
